@@ -2,8 +2,8 @@
 
 ## Reveal-able upgrades:
 ### Land unlocks:
-- Rival tribes: 5 <img src="exploration.png" alt=":exploration:" style="object-fit: contain; vertical-align: bottom; width: 22px; height: 22px;">
-- Island hopping: 25 canoe
+- <p> Rival tribes: 5 <img src="exploration.png" alt=":exploration:" style="width: 22px; height: 22px;transform: translateY(10px); "></p>
+- <p> sland hopping: 25 canoe <span class="holder" style="display:inline-block;position:relative;width:16px"><img src="exploration.png" height="16" width="16" style="position:absolute;top:-16px"></span></p>
 - Seafaring: 50 sailing 
   - Alternative: 25 shipbuilding (???)
 - Shipyards: 200 shipbuilding
