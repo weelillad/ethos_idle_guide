@@ -2,13 +2,14 @@
 
 ## Reveal-able upgrades:
 ### Land unlocks:
-- <p> Rival tribes: 5 <img src="exploration.png" alt=":exploration:" style="width: 22px; height: 22px;transform: translateY(10px); "></p>
-- <p> sland hopping: 25 canoe <span class="holder" style="display:inline-block;position:relative;width:16px"><img src="exploration.png" height="16" width="16" style="position:absolute;top:-16px"></span></p>
+- Rival tribes: 5 <img src="exploration.png" alt=":exploration:" style="width: 22px; height: 22px;transform: translateY(10px); ">
+- Island hopping: 25 canoe
 - Seafaring: 50 sailing 
   - Alternative: 25 shipbuilding (???)
 - Shipyards: 200 shipbuilding
 - 300 sailing
 - 200 cartography
+- Questing: 75 <font colour="red">Chivalry</font> [XX]
 ### Production unlocks:
 Tools
 Craft tools (production)
