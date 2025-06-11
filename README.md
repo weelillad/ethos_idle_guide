@@ -7,7 +7,7 @@
 - Seafaring: 50 sailing 
   - Alternative: 25 shipbuilding (???)
 - Shipyards: 200 shipbuilding
-- 300 sailing
+- Globe: 250 sailing [VIII]
 - 200 cartography
 - Questing: 75 <font colour="red">Chivalry</font> [XX]
 ### Production unlocks:
