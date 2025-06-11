@@ -7,7 +7,7 @@
 - Seafaring: 50 sailing 
   - Alternative: 25 shipbuilding (???)
 - Shipyards: 200 shipbuilding
-- Globe: 250 sailing [VIII]
+- 300 sailing [VIII]
 - 200 cartography
 - Questing: 75 <font colour="red">Chivalry</font> [XX]
 ### Production unlocks:
@@ -29,6 +29,11 @@ Requires 10 megalith
 Explorers
 Sponsor explorers (exploration)
 Requires 125 expedition
+
+### Bonus unlocks
+
+- Globe: 250 sailing [VIII]
+
 ### Possible exploration upgrades:
 Note: the order is semi-randomized (+x% exploration upgrades only appear with costs >= 1000 explorations)
 Bayou 
