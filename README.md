@@ -6,10 +6,12 @@
 - Island hopping: 25 canoe
 - Seafaring: 50 sailing 
   - Alternative: 25 shipbuilding (???)
-- Shipyards: 200 shipbuilding
+- Shipyards: 200 shipbuilding [X]
 - Oceangoing: 300 sailing [VIII]
-- 200 cartography
+- Atlas: 200 cartography [XV]
 - Questing: 75 <font colour="red">Chivalry</font> [XX]
+- Voyages: 75 patronage [XXIII]
+
 ### Production unlocks:
 Tools
 Craft tools (production)
