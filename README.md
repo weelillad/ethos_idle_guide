@@ -11,6 +11,7 @@
 - Atlas: 200 cartography [XV]
 - Questing: 75 <font colour="red">Chivalry</font> [XX] (???)
 - Voyages: 75 patronage [XXIII]
+- Steamships: 50 steam engines [XXVI]
 
 ### Production unlocks:
 Tools
