@@ -36,6 +36,9 @@ Requires 125 expedition
 ### Bonus unlocks
 
 - Globe: 250 sailing [VIII]
+- Societal Shift: either
+  - 400 Sedentism [V]: +25% blue bulb
+  - 400 Agriculture [VI]: +25% green bulb
 
 ### Possible exploration upgrades:
 Note: the order is semi-randomized (+x% exploration upgrades only appear with costs >= 1000 explorations)
